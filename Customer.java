@@ -1,3 +1,4 @@
+// Customer
 class Customer {
   private String _name;
   private Vector _rentals = new Vector();
